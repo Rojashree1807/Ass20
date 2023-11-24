@@ -1,0 +1,7 @@
+C:\Users\rojar\OneDrive\Documents\Mphasis\BasicCSharpAssignment\BasicCSharpAssignment\bin\Debug\BasicCSharpAssignment.exe.config
+C:\Users\rojar\OneDrive\Documents\Mphasis\BasicCSharpAssignment\BasicCSharpAssignment\bin\Debug\BasicCSharpAssignment.exe
+C:\Users\rojar\OneDrive\Documents\Mphasis\BasicCSharpAssignment\BasicCSharpAssignment\bin\Debug\BasicCSharpAssignment.pdb
+C:\Users\rojar\OneDrive\Documents\Mphasis\BasicCSharpAssignment\BasicCSharpAssignment\obj\Debug\BasicCSharpAssignment.csproj.AssemblyReference.cache
+C:\Users\rojar\OneDrive\Documents\Mphasis\BasicCSharpAssignment\BasicCSharpAssignment\obj\Debug\BasicCSharpAssignment.csproj.CoreCompileInputs.cache
+C:\Users\rojar\OneDrive\Documents\Mphasis\BasicCSharpAssignment\BasicCSharpAssignment\obj\Debug\BasicCSharpAssignment.exe
+C:\Users\rojar\OneDrive\Documents\Mphasis\BasicCSharpAssignment\BasicCSharpAssignment\obj\Debug\BasicCSharpAssignment.pdb
